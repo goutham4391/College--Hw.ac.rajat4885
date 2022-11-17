@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hw.ac.uk	TRUE	/	FALSE	1999999999	HwuAppGatewayAffinityCORS	0b1c07eaff70b8cdd43bd98a7f988dad
+www.hw.ac.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.hw.ac.uk	TRUE	/	FALSE	1999999999	HwuAppGatewayAffinity	0b1c07eaff70b8cdd43bd98a7f988dad
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	Pc_BRQCMfUYcwRwclyu5eY29Emc7xehC.EDR7jF7fwQ-1668330399-0-ARKyHl8JDkK5m8IsssyfWavPz4H1/66Vmww4lcJUbDNyT2kCR5nOeLX1glvVKk2RBYEK/MPnUYSIiRTuU+0vSf4=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
